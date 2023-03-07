@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+htmls,
+body {
+  width: 50%;
+  margin: 0 auto;
+}
+.container {
+  width: 370px;
+}
+#inputField {
+  width: 300px;
+  height: 46px;
+  border: 1px solid black;
+  font-size: 25px;
+  outline: none;
+}
+#addToDo {
+  height: 48px;
+  width: 50px;
+  border: 1px solid black;
+  font-size: 25px;
+}
+.to-dos {
+  margin-top: 25px;
+}
+.paragraph-styling {
+  cursor: pointer;
+  font-size: 20px;
+  color: red;
+}
